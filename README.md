@@ -1,25 +1,24 @@
-# Projects
+# Machine Learning Projects
 
-A structured collection of practical projects in artificial intelligence, machine learning, generative AI, and automation.
+A structured collection of practical machine learning projects.
 
 ## Repository Structure
 
 ```text
-Project/
-└── Machine-Learning-Projects/
-    └── Titanic-Classification/
-        ├── README.md
-        ├── requirements.txt
-        └── titanic_classification_project.ipynb
+machine-learning-projects/
+└── titanic-survival-classification/
+    ├── README.md
+    ├── requirements.txt
+    └── titanic_classification_project.ipynb
 ```
 
-## Project Categories
-
-### Machine Learning Projects
+## Projects
 
 | Project | Problem Type | Main Techniques | Status |
 |---|---|---|---|
-| [Titanic Survival Classification](Machine-Learning-Projects/Titanic-Classification/) | Binary classification | EDA, preprocessing, GridSearchCV, model comparison | Random Forest: 79.8% test accuracy |
+| [Titanic Survival Classification](titanic-survival-classification/) | Binary classification | EDA, preprocessing, GridSearchCV, model comparison | Random Forest: 79.8% test accuracy |
+
+More machine learning projects will be added as they are completed.
 
 ## Author
 
