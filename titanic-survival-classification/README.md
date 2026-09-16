@@ -2,6 +2,8 @@
 
 An exploratory machine-learning notebook that analyzes Titanic passenger data and builds binary-classification models to predict survival.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saad-khanzada/machine-learning-projects/blob/main/titanic-survival-classification/titanic_classification_project.ipynb)
+
 ## Project Workflow
 
 The notebook covers:
@@ -55,6 +57,8 @@ Titanic-Classification/
 - Jupyter Notebook / Google Colab
 
 ## Running the Notebook
+
+You can open the notebook directly in Google Colab using the badge above, or run it locally:
 
 1. Download or clone the repository.
 2. Install the dependencies:
