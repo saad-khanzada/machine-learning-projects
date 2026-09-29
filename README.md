@@ -21,4 +21,4 @@ Results and limitations are documented within individual projects, where their d
 ## Author
 
 **Saad Kabeer**  
-[GitHub](https://github.com/saad-khanzada) · [Website](https://saadkabeer.online/)
+[linkedin](https://www.linkedin.com/in/saad-kabeer-ai) · [Website](https://saadkabeer.online/)
