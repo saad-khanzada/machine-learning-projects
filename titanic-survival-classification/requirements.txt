@@ -1,7 +1,11 @@
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-xgboost
-jupyter
+# Core versions recorded in the supplied notebook run (Python 3.13.15).
+numpy==2.1.3
+pandas==2.2.3
+matplotlib==3.10.0
+seaborn==0.13.2
+scikit-learn==1.6.1
+
+# Notebook interface and display utilities; not a full environment lockfile.
+notebook>=7,<8
+ipython>=8,<10
+ipykernel>=6,<7

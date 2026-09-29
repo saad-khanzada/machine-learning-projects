@@ -1,26 +1,26 @@
 # Machine Learning Projects
 
-A structured collection of practical machine learning projects.
-
-## Repository Structure
-
-```text
-machine-learning-projects/
-└── titanic-survival-classification/
-    ├── README.md
-    ├── requirements.txt
-    └── titanic_classification_project.ipynb
-```
+Practical machine learning projects by **Saad Kabeer**, covering data exploration, preprocessing, model selection, and evaluation.
 
 ## Projects
 
-| Project | Problem Type | Main Techniques | Status | Notebook |
-|---|---|---|---|---|
-| [Titanic Survival Classification](titanic-survival-classification/) | Binary classification | EDA, preprocessing, GridSearchCV, model comparison | Random Forest: 79.8% test accuracy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saad-khanzada/machine-learning-projects/blob/main/titanic-survival-classification/titanic_classification_project.ipynb) |
+| Project | Task | Methods | Recorded result |
+|---|---|---|---|
+| [Titanic Survival Classification](titanic-survival-classification/) | Predict passenger survival | Preprocessing pipelines, feature engineering, stratified cross-validation, randomized hyperparameter search | CV-selected Gradient Boosting: **81.01% test accuracy** |
 
-More machine learning projects will be added as they are completed.
+Results describe the saved experiments on their specific datasets and splits. See each project's README for evaluation details and reproducibility notes.
+
+## Start here
+
+Open the [Titanic project guide](titanic-survival-classification/README.md) for local setup or Google Colab instructions.
+
+- [Notebook](titanic-survival-classification/titanic_classification_project.ipynb)
+- [Dataset](titanic-survival-classification/titanic_dataset.csv)
+- [Dependencies](titanic-survival-classification/requirements.txt)
+
+Each project keeps its notebook, data, dependencies, and documentation together in its own folder.
 
 ## Author
 
 **Saad Kabeer**  
-BS Computer Science Student | Aspiring AI/ML Engineer
+[GitHub](https://github.com/saad-khanzada) · [Website](https://saadkabeer.online/)
