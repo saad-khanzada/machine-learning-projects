@@ -1,24 +1,22 @@
 # Machine Learning Projects
 
-Practical machine learning projects by **Saad Kabeer**, covering data exploration, preprocessing, model selection, and evaluation.
+Practical machine learning projects by **Saad Kabeer**, exploring how data preparation, modeling choices, and evaluation affect predictions.
 
-## Projects
+## Project index
 
-| Project | Task | Methods | Recorded result |
-|---|---|---|---|
-| [Titanic Survival Classification](titanic-survival-classification/) | Predict passenger survival | Preprocessing pipelines, feature engineering, stratified cross-validation, randomized hyperparameter search | CV-selected Gradient Boosting: **81.01% test accuracy** |
+Browse by task type. Each project link opens its own guide with the notebook, dataset details, results, dependencies, and run instructions.
 
-Results describe the saved experiments on their specific datasets and splits. See each project's README for evaluation details and reproducibility notes.
+### Classification
 
-## Start here
+| Project | Objective | Main techniques |
+|---|---|---|
+| [Titanic Survival Classification](titanic-survival-classification/) | Predict passenger survival from demographic and travel information | Preprocessing pipelines, feature engineering, stratified cross-validation, hyperparameter tuning |
 
-Open the [Titanic project guide](titanic-survival-classification/README.md) for local setup or Google Colab instructions.
+## Repository organization
 
-- [Notebook](titanic-survival-classification/titanic_classification_project.ipynb)
-- [Dataset](titanic-survival-classification/titanic_dataset.csv)
-- [Dependencies](titanic-survival-classification/requirements.txt)
+Projects are grouped by task type in this index and kept in separate folders. Each project's README is the starting point for running and understanding that project.
 
-Each project keeps its notebook, data, dependencies, and documentation together in its own folder.
+Results and limitations are documented within individual projects, where their datasets and evaluation methods provide the necessary context.
 
 ## Author
 
