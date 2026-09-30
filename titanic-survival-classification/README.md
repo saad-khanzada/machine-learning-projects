@@ -46,7 +46,7 @@ The saved run selected **tuned Gradient Boosting with simple features**, with **
 
 The selected model correctly classified **145 of 179** test passengers. Its survivor recall indicates that many actual survivors were missed. Tuning produced a higher selection-CV score, but did not produce higher accuracy than the simple comparator on this test split.
 
-**Output status:** These metrics are retained from the supplied executed notebook. The title-extraction regex was subsequently corrected, and the complete experiment has not been rerun after that edit. Rerun all cells to refresh the outputs; these are not claimed as independently verified post-edit results.
+**Output status:** These metrics come from the author's refreshed run after the title-extraction correction. The uploaded notebook contains all 18 code cells executed in sequence, with no saved error outputs. The saved outputs were inspected for consistency; this review did not independently rerun training.
 
 ## Run locally
 
