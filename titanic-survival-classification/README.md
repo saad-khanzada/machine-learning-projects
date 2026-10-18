@@ -8,6 +8,8 @@ Predict passenger survival from demographic and travel information using an end-
 
 [View notebook](titanic_classification_project.ipynb) · [Dataset](titanic_dataset.csv) · [Requirements](requirements.txt)
 
+**[Read the full case study on my portfolio](https://saadkabeer.online/projects/titanic-survival-classification).**
+
 ## Project overview
 
 The notebook validates the data, explores the training partition, compares simple and engineered features, and evaluates multiple classification pipelines. Model selection uses training cross-validation; the reserved test set is used for final evaluation.
